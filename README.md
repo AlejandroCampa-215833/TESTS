@@ -14,7 +14,6 @@ Kix Threads is a web app built in Django that allows users to buy different size
 
 ## Functional requirements:
 | **ID** | **Description** |
-| --- | --- |
 | FR-01 | The admin can create, read, update and delete products from the catalog. |
 | FR-02 | Each product can be associated to one or several sizes with their respective stock. |
 | FR-03 | Users can register and log their profile. |
