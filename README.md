@@ -27,7 +27,6 @@ Kix Threads is a web app built in Django that allows users to buy different size
 | FR-10 | Users will be able to mark products as favorites. |
 | FR-11 | Each user will be able t access a list of products they have marked as favorites. |
 
-
 ## Non-functional requirements:
 | **ID** | **Description** |
 | --- | --- |
@@ -36,3 +35,8 @@ Kix Threads is a web app built in Django that allows users to buy different size
 | NFR-03 | The interface will be responsibe, working correctly on mobile and desktop. |
 | NFR-04 | Specific error messages will be displayed (e.g. "insufficient stock", "invalid mail"). |
 | NFR-05 | Visual confirmations will be included for key actions (e.g., remove from the cart). |
+
+**_Database model_**
+
+![entity relationshp diagram](entity_relationship_diagram.jpg)
+![relational model](relational_model.jpg)
