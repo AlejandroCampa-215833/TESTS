@@ -38,5 +38,5 @@ Kix Threads is a web app built in Django that allows users to buy different size
 
 **_Database model_**
 
-![entity relationshp diagram](entity_relationship_diagram.jpg)
+![entity relationshp diagram](entity_relationship diagram.jpg)
 ![relational model](relational_model.jpg)
