@@ -1,18 +1,18 @@
-#### *215833 - ALEJANDRO CAMPA ALONSO*
+**_215833 - ALEJANDRO CAMPA ALONSO_**
 
 # Project's name: KIX THREADS System
 
-## **System's description:**
+## System's description:
 Kix Threads is a web app built in Django that allows users to buy different sizes and brands clothes or shoes. The systems offers functionalities for both users and administrators, including: serching for a visual catalog, shopping cart, order management, and user management. The administrator has access to products, brands, sizes, categories, orders, users management.
 
-## **Actors involved:** 
+## Actors involved:
 - **System administrator:** responsible for managing the product catalog (CRUD), including brands, sizes, categories, orders and products.
 - **Client/Customer:** can register, login, search for products, give "likes", add products to the shopping cart, make orders, and view their orders.
 - **Database:** stores all the information of the system: products, users, orders, cart, llkes, etc.
 - **Web system (backend Django):** manages the business logic of the system, CRUD operations and validations.
 - **Web interface (frontend):** shows to customers the information with any type of devices.
 
-## **Functional requirements:**
+## Functional requirements:
 | **ID** | **Description** |
 | --- | --- |
 | FR-01 | The admin can create, read, update and delete products from the catalog. |
@@ -32,3 +32,4 @@ Kix Threads is a web app built in Django that allows users to buy different size
 | ID | Description |
 | --- | --- |
 | NFR1 | The system should be easy to use. |
+
