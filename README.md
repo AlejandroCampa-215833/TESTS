@@ -14,6 +14,7 @@ Kix Threads is a web app built in Django that allows users to buy different size
 
 ## Functional requirements:
 | **ID** | **Description** |
+| --- | --- |
 | FR-01 | The admin can create, read, update and delete products from the catalog. |
 | FR-02 | Each product can be associated to one or several sizes with their respective stock. |
 | FR-03 | Users can register and log their profile. |
@@ -28,7 +29,10 @@ Kix Threads is a web app built in Django that allows users to buy different size
 
 
 ## Non-functional requirements:
-| ID | Description |
+| **ID** | **Description** |
 | --- | --- |
-| NFR1 | The system should be easy to use. |
-
+| NFR-01 | The system will be developed with Django 5.2 and will use SQLite as the database under development. |
+| NFR-02 | A defined identity will be applied with specific colors and fonts (red: #E63945, black: #1D1D1D, white: #F1FAEE, gray: #A8A8A8, titles: Bebas Neue-Oswald and general text: Roboto-Lato). |
+| NFR-03 | The interface will be responsibe, working correctly on mobile and desktop. |
+| NFR-04 | Specific error messages will be displayed (e.g. "insufficient stock", "invalid mail"). |
+| NFR-05 | Visual confirmations will be included for key actions (e.g., remove from the cart). |
